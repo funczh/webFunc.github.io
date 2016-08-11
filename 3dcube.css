@@ -5,6 +5,8 @@
 }
 h1{
   text-align: center;
+  margin-top: 100px;
+  font-weight: 500;
 }
 .cube {
     /*设置魔方容器的属性*/
