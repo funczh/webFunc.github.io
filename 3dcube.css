@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0;
 }
-
+h1{
+  text-align: center;
+}
 .cube {
     /*设置魔方容器的属性*/
     width: 300px;
